@@ -1,0 +1,1443 @@
+Array size: 4 x 4 logic blocks.
+
+Routing:
+
+Net 0 (po)
+
+Node:	661	SOURCE (2,3)  Class: 1  
+Node:	711	  OPIN (2,3)  Pin: 48  
+Node:	1813	 CHANX (1,3) to (2,3)  Track: 3  
+Node:	1980	 CHANY (0,4)  Track: 14  
+Node:	1886	 CHANX (1,4) to (4,4)  Track: 16  
+Node:	492	  IPIN (1,5)  Pad: 12  
+Node:	468	  SINK (1,5)  Pad: 12  
+
+
+Net 1 ([796])
+
+Node:	973	SOURCE (3,3)  Class: 1  
+Node:	1018	  OPIN (3,3)  Pin: 43  
+Node:	2090	 CHANY (2,3) to (2,4)  Track: 8  
+Node:	696	  IPIN (2,3)  Pin: 33  
+Node:	660	  SINK (2,3)  Class: 0  
+Node:	1018	  OPIN (3,3)  Pin: 43  
+Node:	2073	 CHANY (2,1) to (2,3)  Track: 27  
+Node:	932	  IPIN (3,2)  Pin: 11  
+Node:	918	  SINK (3,2)  Class: 0  
+Node:	2073	 CHANY (2,1) to (2,3)  Track: 27  
+Node:	614	  IPIN (2,2)  Pin: 5  
+Node:	606	  SINK (2,2)  Class: 0  
+
+
+Net 2 (pa)
+
+Node:	1549	SOURCE (5,3)  Pad: 13  
+Node:	1573	  OPIN (5,3)  Pad: 13  
+Node:	2214	 CHANY (4,3) to (4,4)  Track: 28  
+Node:	1296	  IPIN (4,3)  Pin: 9  
+Node:	1284	  SINK (4,3)  Class: 0  
+Node:	2214	 CHANY (4,3) to (4,4)  Track: 28  
+Node:	1358	  IPIN (4,4)  Pin: 17  
+Node:	1338	  SINK (4,4)  Class: 0  
+Node:	1573	  OPIN (5,3)  Pad: 13  
+Node:	2189	 CHANY (4,1) to (4,3)  Track: 23  
+Node:	1250	  IPIN (4,2)  Pin: 17  
+Node:	1230	  SINK (4,2)  Class: 0  
+Node:	2214	 CHANY (4,3) to (4,4)  Track: 28  
+Node:	1833	 CHANX (1,3) to (4,3)  Track: 23  
+Node:	439	  IPIN (1,4)  Pin: 34  
+Node:	402	  SINK (1,4)  Class: 0  
+Node:	1833	 CHANX (1,3) to (4,3)  Track: 23  
+Node:	755	  IPIN (2,4)  Pin: 38  
+Node:	714	  SINK (2,4)  Class: 0  
+Node:	1573	  OPIN (5,3)  Pad: 13  
+Node:	2197	 CHANY (4,1) to (4,3)  Track: 31  
+Node:	1747	 CHANX (4,1)  Track: 25  
+Node:	1715	 CHANX (1,1) to (3,1)  Track: 25  
+Node:	575	  IPIN (2,1)  Pin: 20  
+Node:	552	  SINK (2,1)  Class: 0  
+Node:	1715	 CHANX (1,1) to (3,1)  Track: 25  
+Node:	315	  IPIN (1,2)  Pin: 18  
+Node:	294	  SINK (1,2)  Class: 0  
+Node:	1715	 CHANX (1,1) to (3,1)  Track: 25  
+Node:	631	  IPIN (2,2)  Pin: 22  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	1833	 CHANX (1,3) to (4,3)  Track: 23  
+Node:	383	  IPIN (1,3)  Pin: 32  
+Node:	348	  SINK (1,3)  Class: 0  
+Node:	1833	 CHANX (1,3) to (4,3)  Track: 23  
+Node:	995	  IPIN (3,3)  Pin: 20  
+Node:	972	  SINK (3,3)  Class: 0  
+Node:	1833	 CHANX (1,3) to (4,3)  Track: 23  
+Node:	667	  IPIN (2,3)  Pin: 4  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 3 ([850])
+
+Node:	1231	SOURCE (4,2)  Class: 1  
+Node:	1278	  OPIN (4,2)  Pin: 45  
+Node:	2206	 CHANY (4,2) to (4,4)  Track: 26  
+Node:	1771	 CHANX (1,2) to (4,2)  Track: 21  
+Node:	689	  IPIN (2,3)  Pin: 26  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 4 ([831])
+
+Node:	607	SOURCE (2,2)  Class: 1  
+Node:	653	  OPIN (2,2)  Pin: 44  
+Node:	1775	 CHANX (1,2) to (2,2)  Track: 25  
+Node:	693	  IPIN (2,3)  Pin: 30  
+Node:	660	  SINK (2,3)  Class: 0  
+Node:	653	  OPIN (2,2)  Pin: 44  
+Node:	1790	 CHANX (2,2) to (4,2)  Track: 30  
+Node:	2150	 CHANY (3,3) to (3,4)  Track: 2  
+Node:	1054	  IPIN (3,4)  Pin: 25  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 5 ([720])
+
+Node:	607	SOURCE (2,2)  Class: 1  
+Node:	650	  OPIN (2,2)  Pin: 41  
+Node:	2055	 CHANY (2,1) to (2,2)  Track: 9  
+Node:	564	  IPIN (2,1)  Pin: 9  
+Node:	552	  SINK (2,1)  Class: 0  
+Node:	650	  OPIN (2,2)  Pin: 41  
+Node:	2082	 CHANY (2,2) to (2,4)  Track: 14  
+Node:	990	  IPIN (3,3)  Pin: 15  
+Node:	972	  SINK (3,3)  Class: 0  
+Node:	2082	 CHANY (2,2) to (2,4)  Track: 14  
+Node:	1767	 CHANX (1,2) to (2,2)  Track: 17  
+Node:	385	  IPIN (1,3)  Pin: 34  
+Node:	348	  SINK (1,3)  Class: 0  
+Node:	2082	 CHANY (2,2) to (2,4)  Track: 14  
+Node:	676	  IPIN (2,3)  Pin: 13  
+Node:	660	  SINK (2,3)  Class: 0  
+Node:	1767	 CHANX (1,2) to (2,2)  Track: 17  
+Node:	329	  IPIN (1,2)  Pin: 32  
+Node:	294	  SINK (1,2)  Class: 0  
+
+
+Net 6 ([788])
+
+Node:	715	SOURCE (2,4)  Class: 1  
+Node:	763	  OPIN (2,4)  Pin: 46  
+Node:	1821	 CHANX (1,3) to (2,3)  Track: 11  
+Node:	699	  IPIN (2,3)  Pin: 36  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 7 ([16])
+
+Node:	553	SOURCE (2,1)  Class: 1  
+Node:	604	  OPIN (2,1)  Pin: 49  
+Node:	2056	 CHANY (2,1) to (2,3)  Track: 10  
+Node:	700	  IPIN (2,3)  Pin: 37  
+Node:	660	  SINK (2,3)  Class: 0  
+Node:	2056	 CHANY (2,1) to (2,3)  Track: 10  
+Node:	1751	 CHANX (1,2) to (2,2)  Track: 1  
+Node:	317	  IPIN (1,2)  Pin: 20  
+Node:	294	  SINK (1,2)  Class: 0  
+Node:	2056	 CHANY (2,1) to (2,3)  Track: 10  
+Node:	1829	 CHANX (1,3) to (2,3)  Track: 19  
+Node:	371	  IPIN (1,3)  Pin: 20  
+Node:	348	  SINK (1,3)  Class: 0  
+
+
+Net 8 ([810])
+
+Node:	1231	SOURCE (4,2)  Class: 1  
+Node:	1277	  OPIN (4,2)  Pin: 44  
+Node:	1785	 CHANX (2,2) to (4,2)  Track: 7  
+Node:	681	  IPIN (2,3)  Pin: 18  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 9 ([857])
+
+Node:	607	SOURCE (2,2)  Class: 1  
+Node:	657	  OPIN (2,2)  Pin: 48  
+Node:	1783	 CHANX (1,2) to (2,2)  Track: 33  
+Node:	697	  IPIN (2,3)  Pin: 34  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 10 ([795])
+
+Node:	607	SOURCE (2,2)  Class: 1  
+Node:	649	  OPIN (2,2)  Pin: 40  
+Node:	1784	 CHANX (2,2) to (4,2)  Track: 6  
+Node:	1001	  IPIN (3,3)  Pin: 26  
+Node:	972	  SINK (3,3)  Class: 0  
+Node:	649	  OPIN (2,2)  Pin: 40  
+Node:	1786	 CHANX (2,2) to (4,2)  Track: 14  
+Node:	669	  IPIN (2,3)  Pin: 6  
+Node:	660	  SINK (2,3)  Class: 0  
+Node:	1784	 CHANX (2,2) to (4,2)  Track: 6  
+Node:	949	  IPIN (3,2)  Pin: 28  
+Node:	918	  SINK (3,2)  Class: 0  
+
+
+Net 11 ([715])
+
+Node:	349	SOURCE (1,3)  Class: 1  
+Node:	395	  OPIN (1,3)  Pin: 44  
+Node:	1814	 CHANX (1,3) to (3,3)  Track: 4  
+Node:	1003	  IPIN (3,3)  Pin: 28  
+Node:	972	  SINK (3,3)  Class: 0  
+Node:	1814	 CHANX (1,3) to (3,3)  Track: 4  
+Node:	679	  IPIN (2,3)  Pin: 16  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 12 (ph)
+
+Node:	775	SOURCE (2,5)  Pad: 7  
+Node:	799	  OPIN (2,5)  Pad: 7  
+Node:	1899	 CHANX (1,4) to (2,4)  Track: 29  
+Node:	1963	 CHANY (0,2) to (0,4)  Track: 3  
+Node:	316	  IPIN (1,2)  Pin: 19  
+Node:	294	  SINK (1,2)  Class: 0  
+Node:	799	  OPIN (2,5)  Pad: 7  
+Node:	1908	 CHANX (2,4) to (4,4)  Track: 18  
+Node:	2143	 CHANY (3,2) to (3,4)  Track: 9  
+Node:	1326	  IPIN (4,3)  Pin: 39  
+Node:	1284	  SINK (4,3)  Class: 0  
+Node:	1908	 CHANX (2,4) to (4,4)  Track: 18  
+Node:	1033	  IPIN (3,4)  Pin: 4  
+Node:	1026	  SINK (3,4)  Class: 0  
+Node:	2143	 CHANY (3,2) to (3,4)  Track: 9  
+Node:	1268	  IPIN (4,2)  Pin: 35  
+Node:	1230	  SINK (4,2)  Class: 0  
+Node:	799	  OPIN (2,5)  Pad: 7  
+Node:	1891	 CHANX (1,4) to (2,4)  Track: 21  
+Node:	1997	 CHANY (1,1) to (1,4)  Track: 11  
+Node:	620	  IPIN (2,2)  Pin: 11  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	1891	 CHANX (1,4) to (2,4)  Track: 21  
+Node:	441	  IPIN (1,4)  Pin: 36  
+Node:	402	  SINK (1,4)  Class: 0  
+Node:	799	  OPIN (2,5)  Pad: 7  
+Node:	1910	 CHANX (2,4) to (4,4)  Track: 26  
+Node:	2067	 CHANY (2,1) to (2,4)  Track: 21  
+Node:	890	  IPIN (3,1)  Pin: 23  
+Node:	864	  SINK (3,1)  Class: 0  
+Node:	1899	 CHANX (1,4) to (2,4)  Track: 29  
+Node:	749	  IPIN (2,4)  Pin: 32  
+Node:	714	  SINK (2,4)  Class: 0  
+Node:	1997	 CHANY (1,1) to (1,4)  Track: 11  
+Node:	562	  IPIN (2,1)  Pin: 7  
+Node:	552	  SINK (2,1)  Class: 0  
+Node:	2143	 CHANY (3,2) to (3,4)  Track: 9  
+Node:	954	  IPIN (3,2)  Pin: 33  
+Node:	918	  SINK (3,2)  Class: 0  
+Node:	1910	 CHANX (2,4) to (4,4)  Track: 26  
+Node:	1349	  IPIN (4,4)  Pin: 8  
+Node:	1338	  SINK (4,4)  Class: 0  
+Node:	1963	 CHANY (0,2) to (0,4)  Track: 3  
+Node:	374	  IPIN (1,3)  Pin: 23  
+Node:	348	  SINK (1,3)  Class: 0  
+Node:	1997	 CHANY (1,1) to (1,4)  Track: 11  
+Node:	698	  IPIN (2,3)  Pin: 35  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 13 (nu1)
+
+Node:	553	SOURCE (2,1)  Class: 1  
+Node:	599	  OPIN (2,1)  Pin: 44  
+Node:	1721	 CHANX (1,1) to (2,1)  Track: 31  
+Node:	2026	 CHANY (1,2) to (1,4)  Track: 28  
+Node:	1844	 CHANX (2,3) to (4,3)  Track: 0  
+Node:	987	  IPIN (3,3)  Pin: 12  
+Node:	972	  SINK (3,3)  Class: 0  
+Node:	1721	 CHANX (1,1) to (2,1)  Track: 31  
+Node:	623	  IPIN (2,2)  Pin: 14  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	599	  OPIN (2,1)  Pin: 44  
+Node:	1730	 CHANX (2,1) to (4,1)  Track: 28  
+Node:	939	  IPIN (3,2)  Pin: 18  
+Node:	918	  SINK (3,2)  Class: 0  
+Node:	599	  OPIN (2,1)  Pin: 44  
+Node:	1713	 CHANX (1,1) to (2,1)  Track: 23  
+Node:	2020	 CHANY (1,2) to (1,4)  Track: 4  
+Node:	674	  IPIN (2,3)  Pin: 11  
+Node:	660	  SINK (2,3)  Class: 0  
+Node:	2026	 CHANY (1,2) to (1,4)  Track: 28  
+Node:	368	  IPIN (1,3)  Pin: 17  
+Node:	348	  SINK (1,3)  Class: 0  
+
+
+Net 14 ([836])
+
+Node:	973	SOURCE (3,3)  Class: 1  
+Node:	1022	  OPIN (3,3)  Pin: 47  
+Node:	2094	 CHANY (2,3) to (2,4)  Track: 24  
+Node:	668	  IPIN (2,3)  Pin: 5  
+Node:	660	  SINK (2,3)  Class: 0  
+Node:	2094	 CHANY (2,3) to (2,4)  Track: 24  
+Node:	1044	  IPIN (3,4)  Pin: 15  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 15 (ns0)
+
+Node:	919	SOURCE (3,2)  Class: 1  
+Node:	968	  OPIN (3,2)  Pin: 47  
+Node:	2080	 CHANY (2,2) to (2,4)  Track: 6  
+Node:	688	  IPIN (2,3)  Pin: 25  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 16 (pj)
+
+Node:	1099	SOURCE (3,5)  Pad: 19  
+Node:	1123	  OPIN (3,5)  Pad: 19  
+Node:	1901	 CHANX (1,4) to (3,4)  Track: 31  
+Node:	1929	 CHANY (0,1) to (0,4)  Track: 1  
+Node:	308	  IPIN (1,2)  Pin: 11  
+Node:	294	  SINK (1,2)  Class: 0  
+Node:	1901	 CHANX (1,4) to (3,4)  Track: 31  
+Node:	2095	 CHANY (2,3) to (2,4)  Track: 25  
+Node:	2071	 CHANY (2,1) to (2,2)  Track: 25  
+Node:	886	  IPIN (3,1)  Pin: 19  
+Node:	864	  SINK (3,1)  Class: 0  
+Node:	1901	 CHANX (1,4) to (3,4)  Track: 31  
+Node:	2043	 CHANY (1,4)  Track: 25  
+Node:	1852	 CHANX (2,3) to (4,3)  Track: 32  
+Node:	1323	  IPIN (4,3)  Pin: 36  
+Node:	1284	  SINK (4,3)  Class: 0  
+Node:	1901	 CHANX (1,4) to (3,4)  Track: 31  
+Node:	1045	  IPIN (3,4)  Pin: 16  
+Node:	1026	  SINK (3,4)  Class: 0  
+Node:	1929	 CHANY (0,1) to (0,4)  Track: 1  
+Node:	1754	 CHANX (1,2) to (4,2)  Track: 4  
+Node:	1261	  IPIN (4,2)  Pin: 28  
+Node:	1230	  SINK (4,2)  Class: 0  
+Node:	2043	 CHANY (1,4)  Track: 25  
+Node:	2011	 CHANY (1,1) to (1,3)  Track: 25  
+Node:	632	  IPIN (2,2)  Pin: 23  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	2071	 CHANY (2,1) to (2,2)  Track: 25  
+Node:	580	  IPIN (2,1)  Pin: 25  
+Node:	552	  SINK (2,1)  Class: 0  
+Node:	1901	 CHANX (1,4) to (3,4)  Track: 31  
+Node:	725	  IPIN (2,4)  Pin: 8  
+Node:	714	  SINK (2,4)  Class: 0  
+Node:	2071	 CHANY (2,1) to (2,2)  Track: 25  
+Node:	952	  IPIN (3,2)  Pin: 31  
+Node:	918	  SINK (3,2)  Class: 0  
+Node:	1852	 CHANX (2,3) to (4,3)  Track: 32  
+Node:	1379	  IPIN (4,4)  Pin: 38  
+Node:	1338	  SINK (4,4)  Class: 0  
+Node:	1901	 CHANX (1,4) to (3,4)  Track: 31  
+Node:	437	  IPIN (1,4)  Pin: 32  
+Node:	402	  SINK (1,4)  Class: 0  
+Node:	1929	 CHANY (0,1) to (0,4)  Track: 1  
+Node:	370	  IPIN (1,3)  Pin: 19  
+Node:	348	  SINK (1,3)  Class: 0  
+Node:	2011	 CHANY (1,1) to (1,3)  Track: 25  
+Node:	694	  IPIN (2,3)  Pin: 31  
+Node:	660	  SINK (2,3)  Class: 0  
+Node:	1929	 CHANY (0,1) to (0,4)  Track: 1  
+Node:	250	  IPIN (1,1)  Pin: 7  
+Node:	240	  SINK (1,1)  Class: 0  
+
+
+Net 17 ([15])
+
+Node:	1339	SOURCE (4,4)  Class: 1  
+Node:	1387	  OPIN (4,4)  Pin: 46  
+Node:	1849	 CHANX (2,3) to (4,3)  Track: 17  
+Node:	683	  IPIN (2,3)  Pin: 20  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 18 ([14])
+
+Node:	865	SOURCE (3,1)  Class: 1  
+Node:	908	  OPIN (3,1)  Pin: 41  
+Node:	2108	 CHANY (3,1) to (3,2)  Track: 2  
+Node:	1761	 CHANX (1,2) to (3,2)  Track: 11  
+Node:	2028	 CHANY (1,3) to (1,4)  Track: 6  
+Node:	682	  IPIN (2,3)  Pin: 19  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 19 ([56])
+
+Node:	403	SOURCE (1,4)  Class: 1  
+Node:	451	  OPIN (1,4)  Pin: 46  
+Node:	1828	 CHANX (1,3) to (2,3)  Track: 18  
+Node:	691	  IPIN (2,3)  Pin: 28  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 20 ([817])
+
+Node:	1285	SOURCE (4,3)  Class: 1  
+Node:	1331	  OPIN (4,3)  Pin: 44  
+Node:	1817	 CHANX (1,3) to (4,3)  Track: 7  
+Node:	687	  IPIN (2,3)  Pin: 24  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 21 ([852])
+
+Node:	715	SOURCE (2,4)  Class: 1  
+Node:	762	  OPIN (2,4)  Pin: 45  
+Node:	2051	 CHANY (2,1) to (2,4)  Track: 5  
+Node:	684	  IPIN (2,3)  Pin: 21  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 22 (ne1)
+
+Node:	607	SOURCE (2,2)  Class: 1  
+Node:	654	  OPIN (2,2)  Pin: 45  
+Node:	2084	 CHANY (2,2) to (2,4)  Track: 22  
+Node:	1014	  IPIN (3,3)  Pin: 39  
+Node:	972	  SINK (3,3)  Class: 0  
+Node:	2084	 CHANY (2,2) to (2,4)  Track: 22  
+Node:	664	  IPIN (2,3)  Pin: 1  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 23 ([790])
+
+Node:	1231	SOURCE (4,2)  Class: 1  
+Node:	1282	  OPIN (4,2)  Pin: 49  
+Node:	2202	 CHANY (4,2) to (4,4)  Track: 10  
+Node:	1779	 CHANX (1,2) to (4,2)  Track: 29  
+Node:	677	  IPIN (2,3)  Pin: 14  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 24 (pg)
+
+Node:	103	SOURCE (0,3)  Pad: 7  
+Node:	127	  OPIN (0,3)  Pad: 7  
+Node:	1972	 CHANY (0,3) to (0,4)  Track: 12  
+Node:	1840	 CHANX (1,3) to (4,3)  Track: 30  
+Node:	1039	  IPIN (3,4)  Pin: 10  
+Node:	1026	  SINK (3,4)  Class: 0  
+Node:	1840	 CHANX (1,3) to (4,3)  Track: 30  
+Node:	1303	  IPIN (4,3)  Pin: 16  
+Node:	1284	  SINK (4,3)  Class: 0  
+Node:	127	  OPIN (0,3)  Pad: 7  
+Node:	1943	 CHANY (0,1) to (0,3)  Track: 15  
+Node:	328	  IPIN (1,2)  Pin: 31  
+Node:	294	  SINK (1,2)  Class: 0  
+Node:	127	  OPIN (0,3)  Pad: 7  
+Node:	1935	 CHANY (0,1) to (0,3)  Track: 7  
+Node:	1772	 CHANX (1,2)  Track: 22  
+Node:	1788	 CHANX (2,2) to (4,2)  Track: 22  
+Node:	1253	  IPIN (4,2)  Pin: 20  
+Node:	1230	  SINK (4,2)  Class: 0  
+Node:	1943	 CHANY (0,1) to (0,3)  Track: 15  
+Node:	1782	 CHANX (1,2) to (2,2)  Track: 32  
+Node:	645	  IPIN (2,2)  Pin: 36  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	1972	 CHANY (0,3) to (0,4)  Track: 12  
+Node:	444	  IPIN (1,4)  Pin: 39  
+Node:	402	  SINK (1,4)  Class: 0  
+Node:	1943	 CHANY (0,1) to (0,3)  Track: 15  
+Node:	1722	 CHANX (1,1) to (3,1)  Track: 32  
+Node:	903	  IPIN (3,1)  Pin: 36  
+Node:	864	  SINK (3,1)  Class: 0  
+Node:	1840	 CHANX (1,3) to (4,3)  Track: 30  
+Node:	1359	  IPIN (4,4)  Pin: 18  
+Node:	1338	  SINK (4,4)  Class: 0  
+Node:	1722	 CHANX (1,1) to (3,1)  Track: 32  
+Node:	959	  IPIN (3,2)  Pin: 38  
+Node:	918	  SINK (3,2)  Class: 0  
+Node:	1935	 CHANY (0,1) to (0,3)  Track: 7  
+Node:	1712	 CHANX (1,1) to (2,1)  Track: 22  
+Node:	583	  IPIN (2,1)  Pin: 28  
+Node:	552	  SINK (2,1)  Class: 0  
+Node:	1840	 CHANX (1,3) to (4,3)  Track: 30  
+Node:	747	  IPIN (2,4)  Pin: 30  
+Node:	714	  SINK (2,4)  Class: 0  
+Node:	1972	 CHANY (0,3) to (0,4)  Track: 12  
+Node:	386	  IPIN (1,3)  Pin: 35  
+Node:	348	  SINK (1,3)  Class: 0  
+Node:	1782	 CHANX (1,2) to (2,2)  Track: 32  
+Node:	701	  IPIN (2,3)  Pin: 38  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 25 ([719])
+
+Node:	553	SOURCE (2,1)  Class: 1  
+Node:	596	  OPIN (2,1)  Pin: 41  
+Node:	2048	 CHANY (2,1) to (2,3)  Track: 2  
+Node:	986	  IPIN (3,3)  Pin: 11  
+Node:	972	  SINK (3,3)  Class: 0  
+Node:	596	  OPIN (2,1)  Pin: 41  
+Node:	2046	 CHANY (2,1) to (2,2)  Track: 0  
+Node:	634	  IPIN (2,2)  Pin: 25  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	2048	 CHANY (2,1) to (2,3)  Track: 2  
+Node:	672	  IPIN (2,3)  Pin: 9  
+Node:	660	  SINK (2,3)  Class: 0  
+Node:	2046	 CHANY (2,1) to (2,2)  Track: 0  
+Node:	1759	 CHANX (1,2) to (2,2)  Track: 9  
+Node:	357	  IPIN (1,3)  Pin: 6  
+Node:	348	  SINK (1,3)  Class: 0  
+Node:	1759	 CHANX (1,2) to (2,2)  Track: 9  
+Node:	305	  IPIN (1,2)  Pin: 8  
+Node:	294	  SINK (1,2)  Class: 0  
+
+
+Net 26 ([39])
+
+Node:	607	SOURCE (2,2)  Class: 1  
+Node:	655	  OPIN (2,2)  Pin: 46  
+Node:	1697	 CHANX (1,1) to (2,1)  Track: 7  
+Node:	567	  IPIN (2,1)  Pin: 12  
+Node:	552	  SINK (2,1)  Class: 0  
+Node:	1697	 CHANX (1,1) to (2,1)  Track: 7  
+Node:	1968	 CHANY (0,2) to (0,4)  Track: 26  
+Node:	1824	 CHANX (1,3) to (4,3)  Track: 14  
+Node:	1007	  IPIN (3,3)  Pin: 32  
+Node:	972	  SINK (3,3)  Class: 0  
+Node:	1824	 CHANX (1,3) to (4,3)  Track: 14  
+Node:	675	  IPIN (2,3)  Pin: 12  
+Node:	660	  SINK (2,3)  Class: 0  
+Node:	1968	 CHANY (0,2) to (0,4)  Track: 26  
+Node:	382	  IPIN (1,3)  Pin: 31  
+Node:	348	  SINK (1,3)  Class: 0  
+Node:	655	  OPIN (2,2)  Pin: 46  
+Node:	1726	 CHANX (2,1) to (4,1)  Track: 12  
+Node:	923	  IPIN (3,2)  Pin: 2  
+Node:	918	  SINK (3,2)  Class: 0  
+
+
+Net 27 ([81])
+
+Node:	715	SOURCE (2,4)  Class: 1  
+Node:	764	  OPIN (2,4)  Pin: 47  
+Node:	2005	 CHANY (1,1) to (1,4)  Track: 19  
+Node:	686	  IPIN (2,3)  Pin: 23  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 28 ([28])
+
+Node:	295	SOURCE (1,2)  Class: 1  
+Node:	345	  OPIN (1,2)  Pin: 48  
+Node:	1758	 CHANX (1,2) to (2,2)  Track: 8  
+Node:	673	  IPIN (2,3)  Pin: 10  
+Node:	660	  SINK (2,3)  Class: 0  
+Node:	1758	 CHANX (1,2) to (2,2)  Track: 8  
+Node:	2096	 CHANY (2,3) to (2,4)  Track: 32  
+Node:	1068	  IPIN (3,4)  Pin: 39  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 29 ([23])
+
+Node:	403	SOURCE (1,4)  Class: 1  
+Node:	454	  OPIN (1,4)  Pin: 49  
+Node:	2039	 CHANY (1,4)  Track: 9  
+Node:	1995	 CHANY (1,1) to (1,3)  Track: 9  
+Node:	678	  IPIN (2,3)  Pin: 15  
+Node:	660	  SINK (2,3)  Class: 0  
+
+
+Net 30 ([832])
+
+Node:	661	SOURCE (2,3)  Class: 1  
+Node:	708	  OPIN (2,3)  Pin: 45  
+Node:	2092	 CHANY (2,3) to (2,4)  Track: 16  
+Node:	1056	  IPIN (3,4)  Pin: 27  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 31 ([803])
+
+Node:	715	SOURCE (2,4)  Class: 1  
+Node:	758	  OPIN (2,4)  Pin: 41  
+Node:	2089	 CHANY (2,3) to (2,4)  Track: 1  
+Node:	982	  IPIN (3,3)  Pin: 7  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 32 ([90])
+
+Node:	919	SOURCE (3,2)  Class: 1  
+Node:	969	  OPIN (3,2)  Pin: 48  
+Node:	1792	 CHANX (3,2) to (4,2)  Track: 0  
+Node:	977	  IPIN (3,3)  Pin: 2  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 33 (pc)
+
+Node:	1081	SOURCE (3,5)  Pad: 1  
+Node:	1105	  OPIN (3,5)  Pad: 1  
+Node:	1893	 CHANX (1,4) to (3,4)  Track: 23  
+Node:	1937	 CHANY (0,1) to (0,4)  Track: 9  
+Node:	336	  IPIN (1,2)  Pin: 39  
+Node:	294	  SINK (1,2)  Class: 0  
+Node:	1105	  OPIN (3,5)  Pad: 1  
+Node:	1918	 CHANX (3,4) to (4,4)  Track: 28  
+Node:	2207	 CHANY (4,2) to (4,4)  Track: 27  
+Node:	1316	  IPIN (4,3)  Pin: 29  
+Node:	1284	  SINK (4,3)  Class: 0  
+Node:	1918	 CHANX (3,4) to (4,4)  Track: 28  
+Node:	1353	  IPIN (4,4)  Pin: 12  
+Node:	1338	  SINK (4,4)  Class: 0  
+Node:	2207	 CHANY (4,2) to (4,4)  Track: 27  
+Node:	1258	  IPIN (4,2)  Pin: 25  
+Node:	1230	  SINK (4,2)  Class: 0  
+Node:	1893	 CHANX (1,4) to (3,4)  Track: 23  
+Node:	409	  IPIN (1,4)  Pin: 4  
+Node:	402	  SINK (1,4)  Class: 0  
+Node:	1893	 CHANX (1,4) to (3,4)  Track: 23  
+Node:	737	  IPIN (2,4)  Pin: 20  
+Node:	714	  SINK (2,4)  Class: 0  
+Node:	1893	 CHANX (1,4) to (3,4)  Track: 23  
+Node:	2031	 CHANY (1,3) to (1,4)  Track: 15  
+Node:	2001	 CHANY (1,1) to (1,2)  Track: 15  
+Node:	590	  IPIN (2,1)  Pin: 35  
+Node:	552	  SINK (2,1)  Class: 0  
+Node:	2031	 CHANY (1,3) to (1,4)  Track: 15  
+Node:	360	  IPIN (1,3)  Pin: 9  
+Node:	348	  SINK (1,3)  Class: 0  
+Node:	1918	 CHANX (3,4) to (4,4)  Track: 28  
+Node:	2129	 CHANY (3,1) to (3,4)  Track: 23  
+Node:	992	  IPIN (3,3)  Pin: 17  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 34 ([20])
+
+Node:	1339	SOURCE (4,4)  Class: 1  
+Node:	1388	  OPIN (4,4)  Pin: 47  
+Node:	2155	 CHANY (3,3) to (3,4)  Track: 19  
+Node:	1008	  IPIN (3,3)  Pin: 33  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 35 ([108])
+
+Node:	1285	SOURCE (4,3)  Class: 1  
+Node:	1335	  OPIN (4,3)  Pin: 48  
+Node:	1857	 CHANX (3,3) to (4,3)  Track: 11  
+Node:	983	  IPIN (3,3)  Pin: 8  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 36 ([818])
+
+Node:	1339	SOURCE (4,4)  Class: 1  
+Node:	1386	  OPIN (4,4)  Pin: 45  
+Node:	2217	 CHANY (4,4)  Track: 7  
+Node:	1859	 CHANX (3,3) to (4,3)  Track: 19  
+Node:	1011	  IPIN (3,3)  Pin: 36  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 37 ([688])
+
+Node:	1339	SOURCE (4,4)  Class: 1  
+Node:	1384	  OPIN (4,4)  Pin: 43  
+Node:	2121	 CHANY (3,1) to (3,4)  Track: 15  
+Node:	1004	  IPIN (3,3)  Pin: 29  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 38 ([689])
+
+Node:	1231	SOURCE (4,2)  Class: 1  
+Node:	1280	  OPIN (4,2)  Pin: 47  
+Node:	2148	 CHANY (3,2) to (3,4)  Track: 32  
+Node:	1380	  IPIN (4,4)  Pin: 39  
+Node:	1338	  SINK (4,4)  Class: 0  
+Node:	2148	 CHANY (3,2) to (3,4)  Track: 32  
+Node:	1012	  IPIN (3,3)  Pin: 37  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 39 ([697])
+
+Node:	1231	SOURCE (4,2)  Class: 1  
+Node:	1275	  OPIN (4,2)  Pin: 42  
+Node:	1727	 CHANX (2,1) to (4,1)  Track: 13  
+Node:	587	  IPIN (2,1)  Pin: 32  
+Node:	552	  SINK (2,1)  Class: 0  
+Node:	1727	 CHANX (2,1) to (4,1)  Track: 13  
+Node:	643	  IPIN (2,2)  Pin: 34  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	1275	  OPIN (4,2)  Pin: 42  
+Node:	1744	 CHANX (4,1)  Track: 16  
+Node:	2200	 CHANY (4,2) to (4,4)  Track: 2  
+Node:	1346	  IPIN (4,4)  Pin: 5  
+Node:	1338	  SINK (4,4)  Class: 0  
+Node:	1275	  OPIN (4,2)  Pin: 42  
+Node:	1735	 CHANX (3,1) to (4,1)  Track: 15  
+Node:	2140	 CHANY (3,2) to (3,4)  Track: 0  
+Node:	988	  IPIN (3,3)  Pin: 13  
+Node:	972	  SINK (3,3)  Class: 0  
+Node:	2140	 CHANY (3,2) to (3,4)  Track: 0  
+Node:	1823	 CHANX (1,3) to (3,3)  Track: 13  
+Node:	351	  IPIN (1,3)  Pin: 0  
+Node:	348	  SINK (1,3)  Class: 0  
+Node:	2140	 CHANY (3,2) to (3,4)  Track: 0  
+Node:	1050	  IPIN (3,4)  Pin: 21  
+Node:	1026	  SINK (3,4)  Class: 0  
+Node:	1735	 CHANX (3,1) to (4,1)  Track: 15  
+Node:	1705	 CHANX (1,1) to (2,1)  Track: 15  
+Node:	327	  IPIN (1,2)  Pin: 30  
+Node:	294	  SINK (1,2)  Class: 0  
+
+
+Net 40 ([793])
+
+Node:	1027	SOURCE (3,4)  Class: 1  
+Node:	1076	  OPIN (3,4)  Pin: 47  
+Node:	2093	 CHANY (2,3) to (2,4)  Track: 17  
+Node:	998	  IPIN (3,3)  Pin: 23  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 41 ([107])
+
+Node:	1285	SOURCE (4,3)  Class: 1  
+Node:	1330	  OPIN (4,3)  Pin: 43  
+Node:	2156	 CHANY (3,3) to (3,4)  Track: 26  
+Node:	996	  IPIN (3,3)  Pin: 21  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 42 ([771])
+
+Node:	1285	SOURCE (4,3)  Class: 1  
+Node:	1329	  OPIN (4,3)  Pin: 42  
+Node:	1787	 CHANX (2,2) to (4,2)  Track: 15  
+Node:	613	  IPIN (2,2)  Pin: 4  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	1787	 CHANX (2,2) to (4,2)  Track: 15  
+Node:	985	  IPIN (3,3)  Pin: 10  
+Node:	972	  SINK (3,3)  Class: 0  
+Node:	1329	  OPIN (4,3)  Pin: 42  
+Node:	1808	 CHANX (4,2)  Track: 26  
+Node:	1257	  IPIN (4,2)  Pin: 24  
+Node:	1230	  SINK (4,2)  Class: 0  
+Node:	1787	 CHANX (2,2) to (4,2)  Track: 15  
+Node:	2088	 CHANY (2,3) to (2,4)  Track: 0  
+Node:	1854	 CHANX (3,3) to (4,3)  Track: 2  
+Node:	1047	  IPIN (3,4)  Pin: 18  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 43 ([772])
+
+Node:	1285	SOURCE (4,3)  Class: 1  
+Node:	1333	  OPIN (4,3)  Pin: 46  
+Node:	1807	 CHANX (4,2)  Track: 19  
+Node:	1769	 CHANX (1,2) to (3,2)  Track: 19  
+Node:	629	  IPIN (2,2)  Pin: 20  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	1807	 CHANX (4,2)  Track: 19  
+Node:	1269	  IPIN (4,2)  Pin: 36  
+Node:	1230	  SINK (4,2)  Class: 0  
+Node:	1333	  OPIN (4,3)  Pin: 46  
+Node:	1797	 CHANX (3,2) to (4,2)  Track: 17  
+Node:	993	  IPIN (3,3)  Pin: 18  
+Node:	972	  SINK (3,3)  Class: 0  
+Node:	1769	 CHANX (1,2) to (3,2)  Track: 19  
+Node:	2034	 CHANY (1,3) to (1,4)  Track: 30  
+Node:	1846	 CHANX (2,3) to (4,3)  Track: 8  
+Node:	1067	  IPIN (3,4)  Pin: 38  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 44 ([105])
+
+Node:	1285	SOURCE (4,3)  Class: 1  
+Node:	1334	  OPIN (4,3)  Pin: 47  
+Node:	2152	 CHANY (3,3) to (3,4)  Track: 10  
+Node:	984	  IPIN (3,3)  Pin: 9  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 45 ([145])
+
+Node:	1231	SOURCE (4,2)  Class: 1  
+Node:	1273	  OPIN (4,2)  Pin: 40  
+Node:	1804	 CHANX (4,2)  Track: 10  
+Node:	2210	 CHANY (4,3) to (4,4)  Track: 12  
+Node:	1378	  IPIN (4,4)  Pin: 37  
+Node:	1338	  SINK (4,4)  Class: 0  
+Node:	1273	  OPIN (4,2)  Pin: 40  
+Node:	1793	 CHANX (3,2) to (4,2)  Track: 1  
+Node:	981	  IPIN (3,3)  Pin: 6  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 46 ([146])
+
+Node:	1231	SOURCE (4,2)  Class: 1  
+Node:	1276	  OPIN (4,2)  Pin: 43  
+Node:	2142	 CHANY (3,2) to (3,4)  Track: 8  
+Node:	1348	  IPIN (4,4)  Pin: 7  
+Node:	1338	  SINK (4,4)  Class: 0  
+Node:	2142	 CHANY (3,2) to (3,4)  Track: 8  
+Node:	976	  IPIN (3,3)  Pin: 1  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 47 (pb)
+
+Node:	1540	SOURCE (5,3)  Pad: 4  
+Node:	1564	  OPIN (5,3)  Pad: 4  
+Node:	2181	 CHANY (4,1) to (4,3)  Track: 15  
+Node:	1679	 CHANX (3,0) to (4,0)  Track: 21  
+Node:	889	  IPIN (3,1)  Pin: 22  
+Node:	864	  SINK (3,1)  Class: 0  
+Node:	1564	  OPIN (5,3)  Pad: 4  
+Node:	2208	 CHANY (4,3) to (4,4)  Track: 4  
+Node:	1292	  IPIN (4,3)  Pin: 5  
+Node:	1284	  SINK (4,3)  Class: 0  
+Node:	2208	 CHANY (4,3) to (4,4)  Track: 4  
+Node:	1354	  IPIN (4,4)  Pin: 13  
+Node:	1338	  SINK (4,4)  Class: 0  
+Node:	2181	 CHANY (4,1) to (4,3)  Track: 15  
+Node:	1693	 CHANX (1,1) to (4,1)  Track: 3  
+Node:	635	  IPIN (2,2)  Pin: 26  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	1693	 CHANX (1,1) to (4,1)  Track: 3  
+Node:	579	  IPIN (2,1)  Pin: 24  
+Node:	552	  SINK (2,1)  Class: 0  
+Node:	2208	 CHANY (4,3) to (4,4)  Track: 4  
+Node:	1921	 CHANX (4,4)  Track: 7  
+Node:	1877	 CHANX (1,4) to (3,4)  Track: 7  
+Node:	721	  IPIN (2,4)  Pin: 4  
+Node:	714	  SINK (2,4)  Class: 0  
+Node:	1693	 CHANX (1,1) to (4,1)  Track: 3  
+Node:	927	  IPIN (3,2)  Pin: 6  
+Node:	918	  SINK (3,2)  Class: 0  
+Node:	1564	  OPIN (5,3)  Pad: 4  
+Node:	2173	 CHANY (4,1) to (4,3)  Track: 7  
+Node:	1681	 CHANX (3,0) to (4,0)  Track: 29  
+Node:	2064	 CHANY (2,1) to (2,3)  Track: 18  
+Node:	1002	  IPIN (3,3)  Pin: 27  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 48 ([821])
+
+Node:	919	SOURCE (3,2)  Class: 1  
+Node:	965	  OPIN (3,2)  Pin: 44  
+Node:	1796	 CHANX (3,2) to (4,2)  Track: 16  
+Node:	997	  IPIN (3,3)  Pin: 22  
+Node:	972	  SINK (3,3)  Class: 0  
+
+
+Net 49 ([775])
+
+Node:	973	SOURCE (3,3)  Class: 1  
+Node:	1017	  OPIN (3,3)  Pin: 42  
+Node:	1777	 CHANX (1,2) to (3,2)  Track: 27  
+Node:	617	  IPIN (2,2)  Pin: 8  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	1017	  OPIN (3,3)  Pin: 42  
+Node:	1794	 CHANX (3,2) to (4,2)  Track: 8  
+Node:	1233	  IPIN (4,2)  Pin: 0  
+Node:	1230	  SINK (4,2)  Class: 0  
+Node:	1777	 CHANX (1,2) to (3,2)  Track: 27  
+Node:	2032	 CHANY (1,3) to (1,4)  Track: 22  
+Node:	1850	 CHANX (2,3) to (4,3)  Track: 24  
+Node:	2102	 CHANY (2,4)  Track: 18  
+Node:	1064	  IPIN (3,4)  Pin: 35  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 50 (pe)
+
+Node:	820	SOURCE (3,0)  Pad: 4  
+Node:	844	  OPIN (3,0)  Pad: 4  
+Node:	1655	 CHANX (1,0) to (3,0)  Track: 23  
+Node:	1948	 CHANY (0,1) to (0,2)  Track: 20  
+Node:	300	  IPIN (1,2)  Pin: 3  
+Node:	294	  SINK (1,2)  Class: 0  
+Node:	844	  OPIN (3,0)  Pad: 4  
+Node:	1678	 CHANX (3,0) to (4,0)  Track: 20  
+Node:	2112	 CHANY (3,1) to (3,4)  Track: 6  
+Node:	1042	  IPIN (3,4)  Pin: 13  
+Node:	1026	  SINK (3,4)  Class: 0  
+Node:	1678	 CHANX (3,0) to (4,0)  Track: 20  
+Node:	2180	 CHANY (4,1) to (4,3)  Track: 14  
+Node:	1324	  IPIN (4,3)  Pin: 37  
+Node:	1284	  SINK (4,3)  Class: 0  
+Node:	1678	 CHANX (3,0) to (4,0)  Track: 20  
+Node:	885	  IPIN (3,1)  Pin: 18  
+Node:	864	  SINK (3,1)  Class: 0  
+Node:	2180	 CHANY (4,1) to (4,3)  Track: 14  
+Node:	1266	  IPIN (4,2)  Pin: 33  
+Node:	1230	  SINK (4,2)  Class: 0  
+Node:	1948	 CHANY (0,1) to (0,2)  Track: 20  
+Node:	1974	 CHANY (0,3) to (0,4)  Track: 20  
+Node:	432	  IPIN (1,4)  Pin: 27  
+Node:	402	  SINK (1,4)  Class: 0  
+Node:	1655	 CHANX (1,0) to (3,0)  Track: 23  
+Node:	2054	 CHANY (2,1) to (2,2)  Track: 8  
+Node:	622	  IPIN (2,2)  Pin: 13  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	2112	 CHANY (3,1) to (3,4)  Track: 6  
+Node:	1352	  IPIN (4,4)  Pin: 11  
+Node:	1338	  SINK (4,4)  Class: 0  
+Node:	1655	 CHANX (1,0) to (3,0)  Track: 23  
+Node:	577	  IPIN (2,1)  Pin: 22  
+Node:	552	  SINK (2,1)  Class: 0  
+Node:	2054	 CHANY (2,1) to (2,2)  Track: 8  
+Node:	936	  IPIN (3,2)  Pin: 15  
+Node:	918	  SINK (3,2)  Class: 0  
+Node:	2112	 CHANY (3,1) to (3,4)  Track: 6  
+Node:	1839	 CHANX (1,3) to (3,3)  Track: 29  
+Node:	739	  IPIN (2,4)  Pin: 22  
+Node:	714	  SINK (2,4)  Class: 0  
+Node:	1655	 CHANX (1,0) to (3,0)  Track: 23  
+Node:	1994	 CHANY (1,1) to (1,3)  Track: 8  
+Node:	364	  IPIN (1,3)  Pin: 13  
+Node:	348	  SINK (1,3)  Class: 0  
+Node:	1655	 CHANX (1,0) to (3,0)  Track: 23  
+Node:	245	  IPIN (1,1)  Pin: 2  
+Node:	240	  SINK (1,1)  Class: 0  
+
+
+Net 51 (pf)
+
+Node:	838	SOURCE (3,0)  Pad: 22  
+Node:	862	  OPIN (3,0)  Pad: 22  
+Node:	1663	 CHANX (1,0) to (3,0)  Track: 31  
+Node:	1956	 CHANY (0,1) to (0,2)  Track: 28  
+Node:	324	  IPIN (1,2)  Pin: 27  
+Node:	294	  SINK (1,2)  Class: 0  
+Node:	1663	 CHANX (1,0) to (3,0)  Track: 31  
+Node:	2066	 CHANY (2,1) to (2,4)  Track: 20  
+Node:	1032	  IPIN (3,4)  Pin: 3  
+Node:	1026	  SINK (3,4)  Class: 0  
+Node:	862	  OPIN (3,0)  Pad: 22  
+Node:	1680	 CHANX (3,0) to (4,0)  Track: 28  
+Node:	2172	 CHANY (4,1) to (4,3)  Track: 6  
+Node:	1300	  IPIN (4,3)  Pin: 13  
+Node:	1284	  SINK (4,3)  Class: 0  
+Node:	1680	 CHANX (3,0) to (4,0)  Track: 28  
+Node:	877	  IPIN (3,1)  Pin: 10  
+Node:	864	  SINK (3,1)  Class: 0  
+Node:	2172	 CHANY (4,1) to (4,3)  Track: 6  
+Node:	1238	  IPIN (4,2)  Pin: 5  
+Node:	1230	  SINK (4,2)  Class: 0  
+Node:	1663	 CHANX (1,0) to (3,0)  Track: 31  
+Node:	2006	 CHANY (1,1)  Track: 20  
+Node:	2024	 CHANY (1,2) to (1,4)  Track: 20  
+Node:	442	  IPIN (1,4)  Pin: 37  
+Node:	402	  SINK (1,4)  Class: 0  
+Node:	2066	 CHANY (2,1) to (2,4)  Track: 20  
+Node:	638	  IPIN (2,2)  Pin: 29  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	1680	 CHANX (3,0) to (4,0)  Track: 28  
+Node:	2124	 CHANY (3,1) to (3,2)  Track: 18  
+Node:	2154	 CHANY (3,3) to (3,4)  Track: 18  
+Node:	1344	  IPIN (4,4)  Pin: 3  
+Node:	1338	  SINK (4,4)  Class: 0  
+Node:	2124	 CHANY (3,1) to (3,2)  Track: 18  
+Node:	950	  IPIN (3,2)  Pin: 29  
+Node:	918	  SINK (3,2)  Class: 0  
+Node:	1663	 CHANX (1,0) to (3,0)  Track: 31  
+Node:	565	  IPIN (2,1)  Pin: 10  
+Node:	552	  SINK (2,1)  Class: 0  
+Node:	2024	 CHANY (1,2) to (1,4)  Track: 20  
+Node:	380	  IPIN (1,3)  Pin: 29  
+Node:	348	  SINK (1,3)  Class: 0  
+Node:	2066	 CHANY (2,1) to (2,4)  Track: 20  
+Node:	718	  IPIN (2,4)  Pin: 1  
+Node:	714	  SINK (2,4)  Class: 0  
+Node:	1663	 CHANX (1,0) to (3,0)  Track: 31  
+Node:	273	  IPIN (1,1)  Pin: 30  
+Node:	240	  SINK (1,1)  Class: 0  
+
+
+Net 52 ([696])
+
+Node:	1231	SOURCE (4,2)  Class: 1  
+Node:	1279	  OPIN (4,2)  Pin: 46  
+Node:	1709	 CHANX (1,1) to (4,1)  Track: 19  
+Node:	647	  IPIN (2,2)  Pin: 38  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	1709	 CHANX (1,1) to (4,1)  Track: 19  
+Node:	559	  IPIN (2,1)  Pin: 4  
+Node:	552	  SINK (2,1)  Class: 0  
+Node:	1709	 CHANX (1,1) to (4,1)  Track: 19  
+Node:	1964	 CHANY (0,2) to (0,4)  Track: 10  
+Node:	366	  IPIN (1,3)  Pin: 15  
+Node:	348	  SINK (1,3)  Class: 0  
+Node:	1709	 CHANX (1,1) to (4,1)  Track: 19  
+Node:	2086	 CHANY (2,2) to (2,4)  Track: 30  
+Node:	1036	  IPIN (3,4)  Pin: 7  
+Node:	1026	  SINK (3,4)  Class: 0  
+Node:	1709	 CHANX (1,1) to (4,1)  Track: 19  
+Node:	331	  IPIN (1,2)  Pin: 34  
+Node:	294	  SINK (1,2)  Class: 0  
+
+
+Net 53 ([716])
+
+Node:	295	SOURCE (1,2)  Class: 1  
+Node:	339	  OPIN (1,2)  Pin: 42  
+Node:	1704	 CHANX (1,1) to (2,1)  Track: 14  
+Node:	611	  IPIN (2,2)  Pin: 2  
+Node:	606	  SINK (2,2)  Class: 0  
+
+
+Net 54 ([854])
+
+Node:	865	SOURCE (3,1)  Class: 1  
+Node:	915	  OPIN (3,1)  Pin: 48  
+Node:	1691	 CHANX (1,1) to (3,1)  Track: 1  
+Node:	627	  IPIN (2,2)  Pin: 18  
+Node:	606	  SINK (2,2)  Class: 0  
+
+
+Net 55 ([825])
+
+Node:	553	SOURCE (2,1)  Class: 1  
+Node:	600	  OPIN (2,1)  Pin: 45  
+Node:	2050	 CHANY (2,1) to (2,4)  Track: 4  
+Node:	618	  IPIN (2,2)  Pin: 9  
+Node:	606	  SINK (2,2)  Class: 0  
+
+
+Net 56 (pd)
+
+Node:	829	SOURCE (3,0)  Pad: 13  
+Node:	853	  OPIN (3,0)  Pad: 13  
+Node:	1676	 CHANX (3,0) to (4,0)  Track: 12  
+Node:	2136	 CHANY (3,1) to (3,4)  Track: 30  
+Node:	1356	  IPIN (4,4)  Pin: 15  
+Node:	1338	  SINK (4,4)  Class: 0  
+Node:	1676	 CHANX (3,0) to (4,0)  Track: 12  
+Node:	2188	 CHANY (4,1) to (4,3)  Track: 22  
+Node:	1312	  IPIN (4,3)  Pin: 25  
+Node:	1284	  SINK (4,3)  Class: 0  
+Node:	1676	 CHANX (3,0) to (4,0)  Track: 12  
+Node:	901	  IPIN (3,1)  Pin: 34  
+Node:	864	  SINK (3,1)  Class: 0  
+Node:	853	  OPIN (3,0)  Pad: 13  
+Node:	1647	 CHANX (1,0) to (3,0)  Track: 15  
+Node:	2078	 CHANY (2,1) to (2,2)  Track: 32  
+Node:	646	  IPIN (2,2)  Pin: 37  
+Node:	606	  SINK (2,2)  Class: 0  
+Node:	1647	 CHANX (1,0) to (3,0)  Track: 15  
+Node:	589	  IPIN (2,1)  Pin: 34  
+Node:	552	  SINK (2,1)  Class: 0  
+Node:	2188	 CHANY (4,1) to (4,3)  Track: 22  
+Node:	1825	 CHANX (1,3) to (4,3)  Track: 15  
+Node:	731	  IPIN (2,4)  Pin: 14  
+Node:	714	  SINK (2,4)  Class: 0  
+Node:	2078	 CHANY (2,1) to (2,2)  Track: 32  
+Node:	956	  IPIN (3,2)  Pin: 35  
+Node:	918	  SINK (3,2)  Class: 0  
+Node:	2136	 CHANY (3,1) to (3,4)  Track: 30  
+Node:	1046	  IPIN (3,4)  Pin: 17  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 57 ([819])
+
+Node:	919	SOURCE (3,2)  Class: 1  
+Node:	961	  OPIN (3,2)  Pin: 40  
+Node:	1753	 CHANX (1,2) to (3,2)  Track: 3  
+Node:	609	  IPIN (2,2)  Pin: 0  
+Node:	606	  SINK (2,2)  Class: 0  
+
+
+Net 58 ([7])
+
+Node:	403	SOURCE (1,4)  Class: 1  
+Node:	450	  OPIN (1,4)  Pin: 45  
+Node:	2021	 CHANY (1,2) to (1,4)  Track: 5  
+Node:	616	  IPIN (2,2)  Pin: 7  
+Node:	606	  SINK (2,2)  Class: 0  
+
+
+Net 59 ([792])
+
+Node:	865	SOURCE (3,1)  Class: 1  
+Node:	907	  OPIN (3,1)  Pin: 40  
+Node:	1699	 CHANX (1,1) to (3,1)  Track: 9  
+Node:	615	  IPIN (2,2)  Pin: 6  
+Node:	606	  SINK (2,2)  Class: 0  
+
+
+Net 60 ([806])
+
+Node:	919	SOURCE (3,2)  Class: 1  
+Node:	964	  OPIN (3,2)  Pin: 43  
+Node:	2063	 CHANY (2,1) to (2,2)  Track: 17  
+Node:	610	  IPIN (2,2)  Pin: 1  
+Node:	606	  SINK (2,2)  Class: 0  
+
+
+Net 61 ([789])
+
+Node:	919	SOURCE (3,2)  Class: 1  
+Node:	962	  OPIN (3,2)  Pin: 41  
+Node:	2117	 CHANY (3,1) to (3,2)  Track: 11  
+Node:	1272	  IPIN (4,2)  Pin: 39  
+Node:	1230	  SINK (4,2)  Class: 0  
+
+
+Net 62 ([808])
+
+Node:	919	SOURCE (3,2)  Class: 1  
+Node:	963	  OPIN (3,2)  Pin: 42  
+Node:	1738	 CHANX (3,1) to (4,1)  Track: 30  
+Node:	1259	  IPIN (4,2)  Pin: 26  
+Node:	1230	  SINK (4,2)  Class: 0  
+
+
+Net 63 ([147])
+
+Node:	295	SOURCE (1,2)  Class: 1  
+Node:	343	  OPIN (1,2)  Pin: 46  
+Node:	1708	 CHANX (1,1) to (4,1)  Track: 18  
+Node:	1263	  IPIN (4,2)  Pin: 30  
+Node:	1230	  SINK (4,2)  Class: 0  
+
+
+Net 64 ([134])
+
+Node:	403	SOURCE (1,4)  Class: 1  
+Node:	446	  OPIN (1,4)  Pin: 41  
+Node:	1989	 CHANY (1,1) to (1,4)  Track: 3  
+Node:	574	  IPIN (2,1)  Pin: 19  
+Node:	552	  SINK (2,1)  Class: 0  
+
+
+Net 65 ([26])
+
+Node:	919	SOURCE (3,2)  Class: 1  
+Node:	967	  OPIN (3,2)  Pin: 46  
+Node:	1723	 CHANX (1,1) to (3,1)  Track: 33  
+Node:	591	  IPIN (2,1)  Pin: 36  
+Node:	552	  SINK (2,1)  Class: 0  
+
+
+Net 66 (pm)
+
+Node:	553	SOURCE (2,1)  Class: 1  
+Node:	597	  OPIN (2,1)  Pin: 42  
+Node:	1668	 CHANX (2,0) to (4,0)  Track: 10  
+Node:	531	  IPIN (2,0)  Pad: 3  
+Node:	507	  SINK (2,0)  Pad: 3  
+
+
+Net 67 ([816])
+
+Node:	919	SOURCE (3,2)  Class: 1  
+Node:	966	  OPIN (3,2)  Pin: 45  
+Node:	2146	 CHANY (3,2) to (3,4)  Track: 24  
+Node:	1302	  IPIN (4,3)  Pin: 15  
+Node:	1284	  SINK (4,3)  Class: 0  
+
+
+Net 68 ([766])
+
+Node:	1027	SOURCE (3,4)  Class: 1  
+Node:	1070	  OPIN (3,4)  Pin: 41  
+Node:	2151	 CHANY (3,3) to (3,4)  Track: 3  
+Node:	1306	  IPIN (4,3)  Pin: 19  
+Node:	1284	  SINK (4,3)  Class: 0  
+
+
+Net 69 ([762])
+
+Node:	865	SOURCE (3,1)  Class: 1  
+Node:	912	  OPIN (3,1)  Pin: 45  
+Node:	2110	 CHANY (3,1) to (3,3)  Track: 4  
+Node:	1314	  IPIN (4,3)  Pin: 27  
+Node:	1284	  SINK (4,3)  Class: 0  
+
+
+Net 70 ([765])
+
+Node:	1339	SOURCE (4,4)  Class: 1  
+Node:	1383	  OPIN (4,4)  Pin: 42  
+Node:	1868	 CHANX (4,3)  Track: 28  
+Node:	1295	  IPIN (4,3)  Pin: 8  
+Node:	1284	  SINK (4,3)  Class: 0  
+
+
+Net 71 (nh1)
+
+Node:	241	SOURCE (1,1)  Class: 1  
+Node:	283	  OPIN (1,1)  Pin: 40  
+Node:	1703	 CHANX (1,1)  Track: 13  
+Node:	311	  IPIN (1,2)  Pin: 14  
+Node:	294	  SINK (1,2)  Class: 0  
+
+
+Net 72 ([19])
+
+Node:	403	SOURCE (1,4)  Class: 1  
+Node:	448	  OPIN (1,4)  Pin: 43  
+Node:	1961	 CHANY (0,1) to (0,4)  Track: 33  
+Node:	332	  IPIN (1,2)  Pin: 35  
+Node:	294	  SINK (1,2)  Class: 0  
+
+
+Net 73 ([735])
+
+Node:	349	SOURCE (1,3)  Class: 1  
+Node:	396	  OPIN (1,3)  Pin: 45  
+Node:	2003	 CHANY (1,1) to (1,3)  Track: 17  
+Node:	330	  IPIN (1,2)  Pin: 33  
+Node:	294	  SINK (1,2)  Class: 0  
+
+
+Net 74 (pi)
+
+Node:	205	SOURCE (1,0)  Pad: 13  
+Node:	229	  OPIN (1,0)  Pad: 13  
+Node:	1650	 CHANX (1,0)  Track: 18  
+Node:	269	  IPIN (1,1)  Pin: 26  
+Node:	240	  SINK (1,1)  Class: 0  
+Node:	1650	 CHANX (1,0)  Track: 18  
+Node:	1988	 CHANY (1,1) to (1,4)  Track: 2  
+Node:	322	  IPIN (1,2)  Pin: 25  
+Node:	294	  SINK (1,2)  Class: 0  
+Node:	1988	 CHANY (1,1) to (1,4)  Track: 2  
+Node:	356	  IPIN (1,3)  Pin: 5  
+Node:	348	  SINK (1,3)  Class: 0  
+
+
+Net 75 ([732])
+
+Node:	715	SOURCE (2,4)  Class: 1  
+Node:	760	  OPIN (2,4)  Pin: 43  
+Node:	2023	 CHANY (1,2) to (1,4)  Track: 13  
+Node:	326	  IPIN (1,2)  Pin: 29  
+Node:	294	  SINK (1,2)  Class: 0  
+
+
+Net 76 ([753])
+
+Node:	349	SOURCE (1,3)  Class: 1  
+Node:	393	  OPIN (1,3)  Pin: 42  
+Node:	1764	 CHANX (1,2)  Track: 14  
+Node:	333	  IPIN (1,2)  Pin: 36  
+Node:	294	  SINK (1,2)  Class: 0  
+
+
+Net 77 ([123])
+
+Node:	349	SOURCE (1,3)  Class: 1  
+Node:	397	  OPIN (1,3)  Pin: 46  
+Node:	1765	 CHANX (1,2)  Track: 15  
+Node:	297	  IPIN (1,2)  Pin: 0  
+Node:	294	  SINK (1,2)  Class: 0  
+
+
+Net 78 ([744])
+
+Node:	241	SOURCE (1,1)  Class: 1  
+Node:	291	  OPIN (1,1)  Pin: 48  
+Node:	1695	 CHANX (1,1)  Track: 5  
+Node:	323	  IPIN (1,2)  Pin: 26  
+Node:	294	  SINK (1,2)  Class: 0  
+
+
+Net 79 ([754])
+
+Node:	295	SOURCE (1,2)  Class: 1  
+Node:	341	  OPIN (1,2)  Pin: 44  
+Node:	1781	 CHANX (1,2)  Track: 31  
+Node:	369	  IPIN (1,3)  Pin: 18  
+Node:	348	  SINK (1,3)  Class: 0  
+
+
+Net 80 ([742])
+
+Node:	295	SOURCE (1,2)  Class: 1  
+Node:	337	  OPIN (1,2)  Pin: 40  
+Node:	1757	 CHANX (1,2)  Track: 7  
+Node:	365	  IPIN (1,3)  Pin: 14  
+Node:	348	  SINK (1,3)  Class: 0  
+
+
+Net 81 ([777])
+
+Node:	403	SOURCE (1,4)  Class: 1  
+Node:	449	  OPIN (1,4)  Pin: 44  
+Node:	1876	 CHANX (1,4) to (3,4)  Track: 6  
+Node:	1041	  IPIN (3,4)  Pin: 12  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 82 ([840])
+
+Node:	865	SOURCE (3,1)  Class: 1  
+Node:	910	  OPIN (3,1)  Pin: 43  
+Node:	2058	 CHANY (2,1) to (2,4)  Track: 12  
+Node:	1040	  IPIN (3,4)  Pin: 11  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 83 ([760])
+
+Node:	1339	SOURCE (4,4)  Class: 1  
+Node:	1390	  OPIN (4,4)  Pin: 49  
+Node:	2218	 CHANY (4,4)  Track: 14  
+Node:	1887	 CHANX (1,4) to (4,4)  Track: 17  
+Node:	1065	  IPIN (3,4)  Pin: 36  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 84 ([780])
+
+Node:	919	SOURCE (3,2)  Class: 1  
+Node:	970	  OPIN (3,2)  Pin: 49  
+Node:	2109	 CHANY (3,1) to (3,2)  Track: 3  
+Node:	1684	 CHANX (4,0)  Track: 14  
+Node:	2186	 CHANY (4,1) to (4,2)  Track: 20  
+Node:	1701	 CHANX (1,1) to (4,1)  Track: 11  
+Node:	1999	 CHANY (1,1)  Track: 13  
+Node:	1670	 CHANX (2,0) to (4,0)  Track: 18  
+Node:	2182	 CHANY (4,1) to (4,4)  Track: 16  
+Node:	1863	 CHANX (4,3)  Track: 5  
+Node:	2164	 CHANY (3,4)  Track: 28  
+Node:	1034	  IPIN (3,4)  Pin: 5  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 85 ([703])
+
+Node:	403	SOURCE (1,4)  Class: 1  
+Node:	447	  OPIN (1,4)  Pin: 42  
+Node:	1822	 CHANX (1,3) to (3,3)  Track: 12  
+Node:	1043	  IPIN (3,4)  Pin: 14  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 86 ([748])
+
+Node:	1339	SOURCE (4,4)  Class: 1  
+Node:	1385	  OPIN (4,4)  Pin: 44  
+Node:	1913	 CHANX (3,4) to (4,4)  Track: 5  
+Node:	1029	  IPIN (3,4)  Pin: 0  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 87 ([710])
+
+Node:	715	SOURCE (2,4)  Class: 1  
+Node:	766	  OPIN (2,4)  Pin: 49  
+Node:	2098	 CHANY (2,4)  Track: 2  
+Node:	1048	  IPIN (3,4)  Pin: 19  
+Node:	1026	  SINK (3,4)  Class: 0  
+
+
+Net 88 ([750])
+
+Node:	1027	SOURCE (3,4)  Class: 1  
+Node:	1075	  OPIN (3,4)  Pin: 46  
+Node:	1815	 CHANX (1,3) to (3,3)  Track: 5  
+Node:	363	  IPIN (1,3)  Pin: 12  
+Node:	348	  SINK (1,3)  Class: 0  
+
+
+Net 89 ([21])
+
+Node:	1027	SOURCE (3,4)  Class: 1  
+Node:	1071	  OPIN (3,4)  Pin: 42  
+Node:	1831	 CHANX (1,3) to (3,3)  Track: 21  
+Node:	379	  IPIN (1,3)  Pin: 28  
+Node:	348	  SINK (1,3)  Class: 0  
+
+
+Net 90 (pl)
+
+Node:	1027	SOURCE (3,4)  Class: 1  
+Node:	1073	  OPIN (3,4)  Pin: 44  
+Node:	1916	 CHANX (3,4) to (4,4)  Track: 20  
+Node:	1113	  IPIN (3,5)  Pad: 9  
+Node:	1089	  SINK (3,5)  Pad: 9  
+
+
+Net 91 ([709])
+
+Node:	403	SOURCE (1,4)  Class: 1  
+Node:	453	  OPIN (1,4)  Pin: 48  
+Node:	1878	 CHANX (1,4) to (4,4)  Track: 8  
+Node:	1357	  IPIN (4,4)  Pin: 16  
+Node:	1338	  SINK (4,4)  Class: 0  
+
+
+Net 92 ([704])
+
+Node:	715	SOURCE (2,4)  Class: 1  
+Node:	765	  OPIN (2,4)  Pin: 48  
+Node:	1906	 CHANX (2,4) to (4,4)  Track: 10  
+Node:	1373	  IPIN (4,4)  Pin: 32  
+Node:	1338	  SINK (4,4)  Class: 0  
+
+
+Net 93 ([705])
+
+Node:	403	SOURCE (1,4)  Class: 1  
+Node:	445	  OPIN (1,4)  Pin: 40  
+Node:	1870	 CHANX (1,4) to (4,4)  Track: 0  
+Node:	1369	  IPIN (4,4)  Pin: 28  
+Node:	1338	  SINK (4,4)  Class: 0  
+
+
+Net 94 (pn)
+
+Node:	1339	SOURCE (4,4)  Class: 1  
+Node:	1389	  OPIN (4,4)  Pin: 48  
+Node:	1879	 CHANX (1,4) to (4,4)  Track: 9  
+Node:	1422	  IPIN (4,5)  Pad: 6  
+Node:	1398	  SINK (4,5)  Pad: 6  
+
+
+Net 95 (pp)
+
+Node:	1339	SOURCE (4,4)  Class: 1  
+Node:	1381	  OPIN (4,4)  Pin: 40  
+Node:	1922	 CHANX (4,4)  Track: 14  
+Node:	2211	 CHANY (4,3) to (4,4)  Track: 13  
+Node:	1629	  IPIN (5,4)  Pad: 21  
+Node:	1605	  SINK (5,4)  Pad: 21  
+
+
+Net 96 (pk)
+
+Node:	349	SOURCE (1,3)  Class: 1  
+Node:	398	  OPIN (1,3)  Pin: 47  
+Node:	1959	 CHANY (0,1) to (0,3)  Track: 31  
+Node:	129	  IPIN (0,3)  Pad: 9  
+Node:	105	  SINK (0,3)  Pad: 9  
+
+
+Net 97 (nz1)
+
+Node:	403	SOURCE (1,4)  Class: 1  
+Node:	452	  OPIN (1,4)  Pin: 47  
+Node:	1971	 CHANY (0,3) to (0,4)  Track: 5  
+Node:	358	  IPIN (1,3)  Pin: 7  
+Node:	348	  SINK (1,3)  Class: 0  
+
+
+Net 98 ([706])
+
+Node:	715	SOURCE (2,4)  Class: 1  
+Node:	759	  OPIN (2,4)  Pin: 42  
+Node:	1837	 CHANX (1,3) to (2,3)  Track: 27  
+Node:	359	  IPIN (1,3)  Pin: 8  
+Node:	348	  SINK (1,3)  Class: 0  
