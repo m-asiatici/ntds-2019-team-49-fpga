@@ -41,6 +41,12 @@ We can first cluster the circuit graph itself and observe if the nodes of the he
 ## Technical Details
 We will use the MCNC [2] benchmark set and a simple FPGA architecture with all tracks spanning four logic blocks. VTR [3] will provide the placement and routing algorithms. Some modification of its source code will be necessary to extract the appropriate data.
 
+## Code
+- `rr_graph_parser.py` invokes VPR and generate the input files for the Jupyter notebooks.
+- `main.ipynb` generates most of the figures and tables presented in the report.
+- `embedding.ipynb` computes the 2D embeddings of the circuit graphs using spectral embedding alone and in conjunction with t-SNE.
+- `bipartite.ipynb` draws the bipartite graphs as described in Figure 1.
+
 ### References
 
 [1] Marquardt, A., Betz, V. and Rose, J., 2000, February. Timing-driven placement for FPGAs. In Proceedings of the 2000 ACM/SIGDA eighth international symposium on Field programmable gate arrays (pp. 203-213). ACM.
@@ -65,4 +71,3 @@ We will use the MCNC [2] benchmark set and a simple FPGA architecture with all t
 
 [projection]: Figures/projection.png "Title Text"
 **Figure 3**: An example of determining the edge weights in the net-representing partition projection. Averages are only computed for the net *u_1*. Assuming that *u_1* has the dominant difference between the average congested and uncongested weights, the projection weights will be as annotated in the graph on the right. Due to its negative weight, the edge *(u_1, u_3)* does not appear in the final projection.
-
